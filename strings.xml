@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Stonic AI</string>
+    <string name="accessibility_service_description">Enables Stonic AI Full Control Mode to perform voice-commanded navigation (Home, Back, Recents, Notifications, Quick Settings, Screenshot, Lock Screen).</string>
+</resources>
